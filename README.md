@@ -14,13 +14,13 @@ A simple command-line to-do list application written in Python, using SQLite for
 
 1. Clone the repository:
    ```bash
-
+   https://github.com/pabhi18/QuckTasks.git
    ```
 
 2. Install dependencies:
    ```bash
-    pip install -r requirements.txt
-    ```
+   pip install -r requirements.txt
+   ```
 
 ## Usage
 
